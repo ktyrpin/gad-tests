@@ -1,0 +1,7 @@
+{
+	"data": "test",
+	"email": "test@gmail.com",
+	"wrongEmail": "wrongemail",
+	"wrongPassword": "wrongpassword",
+	"invalidEmail": "testgmail.com"
+}
